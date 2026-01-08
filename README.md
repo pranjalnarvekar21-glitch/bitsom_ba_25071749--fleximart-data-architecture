@@ -1,8 +1,11 @@
 # FlexiMart Data Architecture Project
 
 **Student Name:** Pranjal Pramod Shet Narvekar
+
 **Student ID:** bitsom_ba_25071749
+
 **Email:** pranjal.narvekar21@gmail.com
+
 **Date:** 08-01-2026
 ---
 ## Project Overview
@@ -14,13 +17,13 @@ The project is divided into 3 sections. Part 1 excercises the ETL(Extracation Tr
 │   ├── etl_pipeline.ipynb
 │   ├── schema_documentation.md
 │   ├── business_queries.sql
-│   └── customers_raw.csv
-|   └── products_raw.csv
-|   └── sales_raw.scs
-|   └── Query1-output.png
-|   └── Query2-output.png
-|   └── Query-3-output.png
-|   └── fleximartData.db
+│   ├── customers_raw.csv
+│   ├── products_raw.csv
+│   ├── sales_raw.scs
+│   ├── Query1-output.png
+│   ├── Query2-output.png
+│   ├── Query-3-output.png
+│   └── fleximartData.db
 ├── part2-nosql/
 │   ├── nosql_analysis.md
 │   ├── mongodb_operations.js
