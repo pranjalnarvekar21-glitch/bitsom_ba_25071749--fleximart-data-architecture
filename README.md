@@ -7,15 +7,20 @@
 ---
 ## Project Overview
 
-[2-3 sentences describing what you built]
+The project is divided into 3 sections. Part 1 excercises the ETL(Extracation Transformation Loading) of Data. Part 2 is about the NoSQL and Part 3 excercises the Data warehousing concept.
 
 ## Repository Structure
 ├── part1-database-etl/
 │   ├── etl_pipeline.ipynb
 │   ├── schema_documentation.md
 │   ├── business_queries.sql
-│   └── 
-|   └── 
+│   └── customers_raw.csv
+|   └── products_raw.csv
+|   └── sales_raw.scs
+|   └── Query1-output.png
+|   └── Query2-output.png
+|   └── Query-3-output.png
+|   └── fleximartData.db
 ├── part2-nosql/
 │   ├── nosql_analysis.md
 │   ├── mongodb_operations.js
@@ -60,9 +65,9 @@ mongosh < part2-nosql/mongodb_operations.js
 
 ## Key Learnings
 
-[3-4 sentences on what you learned]
+Learnt about documentation and ETL processes, using GIT and VScode in depth. How the real life ETL works and connecting across platforms and language to read and transform data. Drafting Queries to obtain solution to bussiness questions.
 
 ## Challenges Faced
 
-1. [Challenge and solution]
-2. [Challenge and solution]
+1. Seletion of Dimentions for Star schema.
+2. Forming logics for Data Tranformation and cleaning.
