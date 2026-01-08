@@ -20,17 +20,17 @@ The project is divided into 3 sections. Part 1 excercises the ETL(Extracation Tr
 │   ├── business_queries.sql
 │   ├── customers_raw.csv
 │   ├── products_raw.csv
-│   ├── sales_raw.scs
+│   ├── sales_raw.csv
 │   ├── Query1-output.png
 │   ├── Query2-output.png
-│   ├── Query-3-output.png
+│   ├── Query3-output.png
 │   └── fleximartData.db
 ├── part2-nosql/
 │   ├── nosql_analysis.md
 │   ├── mongodb_operations.js
 │   └── products_catalog.json
 ├── part3-datawarehouse/
-│   ├── star_schema_design.md
+│   ├── star_Schema_design.md
 │   ├── warehouse_schema.sql
 │   ├── warehouse_data.sql
 │   └── analytics_queries.sql
