@@ -13,6 +13,7 @@
 The project is divided into 3 sections. Part 1 excercises the ETL(Extracation Transformation Loading) of Data. Part 2 is about the NoSQL and Part 3 excercises the Data warehousing concept.
 
 ## Repository Structure
+
 ├── part1-database-etl/
 │   ├── etl_pipeline.ipynb
 │   ├── schema_documentation.md
@@ -34,6 +35,7 @@ The project is divided into 3 sections. Part 1 excercises the ETL(Extracation Tr
 │   ├── warehouse_data.sql
 │   └── analytics_queries.sql
 └── README.md
+
 
 ## Technologies Used
 
